@@ -24,6 +24,7 @@ func GetByUrl(url string) []byte {
 	} else {
 		defer response.Body.Close()
 		contents, err := ioutil.ReadAll(response.Body)
+		log.Println("content type:", response.Header.Get("content-type"))
 		if err != nil {
 			log.Printf("%s", err)
 		}

@@ -1,0 +1,661 @@
+{
+  "title": "Information & Communication Technology, Developers/Programmers Jobs",
+  "totalCount": 547,
+  "data": [
+    {
+      "id": 28385093,
+      "listingDate": "2015-03-26T00:27:08Z",
+      "title": "Senior MS SQL Developer",
+      "teaser": "We have a medium-sized IT consultancy who has a need for an experienced SQL Developer for one of their public sector clients. They are a...",
+      "bulletPoints": [],
+      "advertiser": {
+        "id": "24916667",
+        "description": "Talent International – SARA Legends – Best Medium IT Recruiter 11/12/13"
+      },
+      "logo": {
+        "id": "513667",
+        "description": "513667.png"
+      },
+      "isPremium": false,
+      "isStandOut": true,
+      "location": "Wellington",
+      "area": "Wellington Central",
+      "workType": "Full Time",
+      "classification": {
+        "id": "6281",
+        "description": "Information & Communication Technology"
+      },
+      "subClassification": {
+        "id": "6287",
+        "description": "Developers/Programmers"
+      },
+      "salary": "Contact Steve: 04 978 2112 or Sureca: 04 978 2102",
+      "suburb": "none"
+    },
+    {
+      "id": 28384407,
+      "listingDate": "2015-03-25T23:25:14Z",
+      "title": "Senior Web Developer",
+      "teaser": "We're looking for a senior web developer, someone strongly experienced with PHP, ideally Symfony and all the senior know-how and team skills.",
+      "bulletPoints": [],
+      "advertiser": {
+        "id": "28152716",
+        "description": "FourthMedia"
+      },
+      "logo": {
+        "id": "",
+        "description": null
+      },
+      "isPremium": false,
+      "isStandOut": false,
+      "location": "Auckland",
+      "area": "Auckland Central",
+      "workType": "Full Time",
+      "classification": {
+        "id": "6281",
+        "description": "Information & Communication Technology"
+      },
+      "subClassification": {
+        "id": "6287",
+        "description": "Developers/Programmers"
+      },
+      "salary": "Negotiable based on experience",
+      "suburb": "Auckland"
+    },
+    {
+      "id": 28384108,
+      "listingDate": "2015-03-25T23:02:19Z",
+      "title": "Senior C# .NET Developer",
+      "teaser": "Exceptional dynamic opportunity to join a shared team where your contribution makes a difference!! Exceptional environment!!",
+      "bulletPoints": [
+        "Work with a team of like minded seniors",
+        "CBD Based role",
+        "Interesting projects with a great client base"
+      ],
+      "advertiser": {
+        "id": "20667029",
+        "description": "Radius Recruitment NZ Ltd"
+      },
+      "logo": {
+        "id": "418504",
+        "description": "418504.bmp"
+      },
+      "isPremium": false,
+      "isStandOut": true,
+      "location": "Auckland",
+      "area": "Auckland Central",
+      "workType": "Full Time",
+      "classification": {
+        "id": "6281",
+        "description": "Information & Communication Technology"
+      },
+      "subClassification": {
+        "id": "6287",
+        "description": "Developers/Programmers"
+      },
+      "salary": "",
+      "suburb": "none"
+    },
+    {
+      "id": 28383705,
+      "listingDate": "2015-03-25T22:14:44Z",
+      "title": "Senior C#.NET Developer Contract",
+      "teaser": "Outstanding long term contract opportunity for a premium software application developer",
+      "bulletPoints": [
+        "Mt. Eden Location",
+        "Long contract term with good rates",
+        "Dynamic and growing Dev Shop in Derivatives Trading Industry"
+      ],
+      "advertiser": {
+        "id": "3888",
+        "description": "Madison Recruitment Ltd"
+      },
+      "logo": {
+        "id": "500617",
+        "description": "500617.png"
+      },
+      "isPremium": false,
+      "isStandOut": true,
+      "location": "Auckland",
+      "area": "Auckland Central",
+      "workType": "Contract/Temp",
+      "classification": {
+        "id": "6281",
+        "description": "Information & Communication Technology"
+      },
+      "subClassification": {
+        "id": "6287",
+        "description": "Developers/Programmers"
+      },
+      "salary": "Circa $85 per hour",
+      "suburb": "Mount Eden"
+    },
+    {
+      "id": 28383623,
+      "listingDate": "2015-03-25T22:02:16Z",
+      "title": "Java UI Designer",
+      "teaser": "ASAP Start",
+      "bulletPoints": [
+        "Flexible hours",
+        "Positive Team Environment"
+      ],
+      "advertiser": {
+        "id": "26853080",
+        "description": "Recruit IT – Your ICT Career and Contract Specialists"
+      },
+      "logo": {
+        "id": "279500",
+        "description": "279500.jpg"
+      },
+      "isPremium": false,
+      "isStandOut": true,
+      "location": "Auckland",
+      "area": "Auckland Central",
+      "workType": "Contract/Temp",
+      "classification": {
+        "id": "6281",
+        "description": "Information & Communication Technology"
+      },
+      "subClassification": {
+        "id": "6287",
+        "description": "Developers/Programmers"
+      },
+      "salary": "",
+      "suburb": "none"
+    },
+    {
+      "id": 28383622,
+      "listingDate": "2015-03-25T22:02:16Z",
+      "title": "Senior .NET Developer (VB.NET & C#)",
+      "teaser": "Great opportunity for a fixer. You will thrive on understanding existing applications and creating solutions to perfect them.",
+      "bulletPoints": [
+        "Great technology transformation projects on the horizon",
+        "Collabrative team with a very supportive manager",
+        "Great environment where a technical allrounder will thrive"
+      ],
+      "advertiser": {
+        "id": "26853080",
+        "description": "Recruit IT – Your ICT Career and Contract Specialists"
+      },
+      "logo": {
+        "id": "279500",
+        "description": "279500.jpg"
+      },
+      "isPremium": false,
+      "isStandOut": true,
+      "location": "Auckland",
+      "area": "",
+      "workType": "Full Time",
+      "classification": {
+        "id": "6281",
+        "description": "Information & Communication Technology"
+      },
+      "subClassification": {
+        "id": "6287",
+        "description": "Developers/Programmers"
+      },
+      "salary": "",
+      "suburb": "none"
+    },
+    {
+      "id": 28383585,
+      "listingDate": "2015-03-25T22:00:52Z",
+      "title": "Lead Business Intelligence Developer",
+      "teaser": "We're looking for proven BI professionals with leadership experience.",
+      "bulletPoints": [],
+      "advertiser": {
+        "id": "22454517",
+        "description": "ninetwenty"
+      },
+      "logo": {
+        "id": "0",
+        "description": null
+      },
+      "isPremium": false,
+      "isStandOut": false,
+      "location": "Wellington",
+      "area": "Wellington Central",
+      "workType": "Full Time",
+      "classification": {
+        "id": "6281",
+        "description": "Information & Communication Technology"
+      },
+      "subClassification": {
+        "id": "6287",
+        "description": "Developers/Programmers"
+      },
+      "salary": "",
+      "suburb": "none"
+    },
+    {
+      "id": 28383584,
+      "listingDate": "2015-03-25T22:00:52Z",
+      "title": "Team Leader - BI Support",
+      "teaser": "We're looking for proven BI professionals with leadership experience.",
+      "bulletPoints": [],
+      "advertiser": {
+        "id": "22454517",
+        "description": "ninetwenty"
+      },
+      "logo": {
+        "id": "0",
+        "description": null
+      },
+      "isPremium": false,
+      "isStandOut": false,
+      "location": "Wellington",
+      "area": "",
+      "workType": "Full Time",
+      "classification": {
+        "id": "6281",
+        "description": "Information & Communication Technology"
+      },
+      "subClassification": {
+        "id": "6287",
+        "description": "Developers/Programmers"
+      },
+      "salary": "",
+      "suburb": "none"
+    },
+    {
+      "id": 28383517,
+      "listingDate": "2015-03-25T21:41:46Z",
+      "title": "Lead Developer",
+      "teaser": "We are looking for a Lead Developer for this 12 - 18 month contract starting immediately",
+      "bulletPoints": [
+        "Central Wellington CBD location",
+        "Long term contract, ETL development",
+        "Negotiable daily rate"
+      ],
+      "advertiser": {
+        "id": "29672375",
+        "description": "Rockit Recruitment"
+      },
+      "logo": {
+        "id": "437611",
+        "description": "437611.jpg"
+      },
+      "isPremium": false,
+      "isStandOut": true,
+      "location": "Wellington",
+      "area": "Wellington Central",
+      "workType": "Full Time",
+      "classification": {
+        "id": "6281",
+        "description": "Information & Communication Technology"
+      },
+      "subClassification": {
+        "id": "6287",
+        "description": "Developers/Programmers"
+      },
+      "salary": "Negotiable daily rate",
+      "suburb": "Wellington"
+    },
+    {
+      "id": 28383437,
+      "listingDate": "2015-03-25T21:19:21Z",
+      "title": "Embedded C Application Developers - POS & Communications Products",
+      "teaser": "Delivering highly complex POS products to the world market using Embedded technologies, opporunity to Lead, Design and Code.",
+      "bulletPoints": [],
+      "advertiser": {
+        "id": "27750695",
+        "description": "Arc Recruitment"
+      },
+      "logo": {
+        "id": "333888",
+        "description": "333888.jpg"
+      },
+      "isPremium": false,
+      "isStandOut": true,
+      "location": "Auckland",
+      "area": "",
+      "workType": "Full Time",
+      "classification": {
+        "id": "6281",
+        "description": "Information & Communication Technology"
+      },
+      "subClassification": {
+        "id": "6287",
+        "description": "Developers/Programmers"
+      },
+      "salary": "$Negotiable + Free Parking",
+      "suburb": "none"
+    },
+    {
+      "id": 28383426,
+      "listingDate": "2015-03-25T21:14:47Z",
+      "title": "C# Web UI Developer",
+      "teaser": "As a leading NZ organisation with a significant international presence this company has a great market share and high levels of customer loyalty. ...",
+      "bulletPoints": [
+        "New Market",
+        "Leading Brand Name",
+        "Work life balance"
+      ],
+      "advertiser": {
+        "id": "29308145",
+        "description": "Hays Information Technology"
+      },
+      "logo": {
+        "id": "404410",
+        "description": "404410.gif"
+      },
+      "isPremium": false,
+      "isStandOut": true,
+      "location": "Auckland",
+      "area": "Auckland Central",
+      "workType": "Full Time",
+      "classification": {
+        "id": "6281",
+        "description": "Information & Communication Technology"
+      },
+      "subClassification": {
+        "id": "6287",
+        "description": "Developers/Programmers"
+      },
+      "salary": "$80,000 - $100,000",
+      "suburb": "none"
+    },
+    {
+      "id": 28383322,
+      "listingDate": "2015-03-25T20:13:07Z",
+      "title": "Winforms C#.NET Developer",
+      "teaser": "This innovative marketing focused vendor set in South Auckland is in the urgent position of recruiting a Winfroms C#.NET resource into their develo...",
+      "bulletPoints": [
+        "South Auckland",
+        "Dynamic Working environment",
+        "Windows based technology"
+      ],
+      "advertiser": {
+        "id": "29308145",
+        "description": "Hays Information Technology"
+      },
+      "logo": {
+        "id": "404410",
+        "description": "404410.gif"
+      },
+      "isPremium": false,
+      "isStandOut": true,
+      "location": "Auckland",
+      "area": "Auckland Central",
+      "workType": "Full Time",
+      "classification": {
+        "id": "6281",
+        "description": "Information & Communication Technology"
+      },
+      "subClassification": {
+        "id": "6287",
+        "description": "Developers/Programmers"
+      },
+      "salary": "$70,000 - $90,000",
+      "suburb": "Auckland"
+    },
+    {
+      "id": 28383321,
+      "listingDate": "2015-03-25T20:13:07Z",
+      "title": "Career driven Senior Software Engineer",
+      "teaser": "Set in Auckland's CBD, this established enterprise is one of the most commercial employers in its market.",
+      "bulletPoints": [
+        "Greenfields architecture",
+        "Cloud based platform",
+        "Enterprise applications"
+      ],
+      "advertiser": {
+        "id": "29308145",
+        "description": "Hays Information Technology"
+      },
+      "logo": {
+        "id": "404410",
+        "description": "404410.gif"
+      },
+      "isPremium": false,
+      "isStandOut": true,
+      "location": "Auckland",
+      "area": "Auckland Central",
+      "workType": "Full Time",
+      "classification": {
+        "id": "6281",
+        "description": "Information & Communication Technology"
+      },
+      "subClassification": {
+        "id": "6287",
+        "description": "Developers/Programmers"
+      },
+      "salary": "$80,000 - $100,000",
+      "suburb": "none"
+    },
+    {
+      "id": 28383319,
+      "listingDate": "2015-03-25T20:13:06Z",
+      "title": "Senior ASP.NET Developer",
+      "teaser": "Located in Auckland's CBD Fringe this organisation is seeking a Senior ASP.NET developer to assist with the growth into emerging markets.",
+      "bulletPoints": [
+        "Full project focus",
+        "Assist with company growth",
+        "Working in the Growing UI space"
+      ],
+      "advertiser": {
+        "id": "29308145",
+        "description": "Hays Information Technology"
+      },
+      "logo": {
+        "id": "404410",
+        "description": "404410.gif"
+      },
+      "isPremium": false,
+      "isStandOut": true,
+      "location": "Auckland",
+      "area": "Auckland Central",
+      "workType": "Full Time",
+      "classification": {
+        "id": "6281",
+        "description": "Information & Communication Technology"
+      },
+      "subClassification": {
+        "id": "6287",
+        "description": "Developers/Programmers"
+      },
+      "salary": "$80,000 - $100,000",
+      "suburb": "none"
+    },
+    {
+      "id": 28383318,
+      "listingDate": "2015-03-25T20:13:06Z",
+      "title": "Senior.NET Developer",
+      "teaser": "Located in the CBD this entity is seeking a Senior C#.NET developer to assist with the development of their complete business application solution....",
+      "bulletPoints": [
+        "Leading technologies",
+        "SAAS development",
+        "$90,000 - $110,000"
+      ],
+      "advertiser": {
+        "id": "29308145",
+        "description": "Hays Information Technology"
+      },
+      "logo": {
+        "id": "404410",
+        "description": "404410.gif"
+      },
+      "isPremium": false,
+      "isStandOut": true,
+      "location": "Auckland",
+      "area": "Auckland Central",
+      "workType": "Full Time",
+      "classification": {
+        "id": "6281",
+        "description": "Information & Communication Technology"
+      },
+      "subClassification": {
+        "id": "6287",
+        "description": "Developers/Programmers"
+      },
+      "salary": "$90,000 - $110,000",
+      "suburb": "none"
+    },
+    {
+      "id": 28383320,
+      "listingDate": "2015-03-25T20:13:06Z",
+      "title": "Forward thinking C# Developer",
+      "teaser": "This established software house set in Auckland's CBD is seeking a Senior C# Developer to join their innovative and market leading team.",
+      "bulletPoints": [
+        "City Centre",
+        "C# Winforms",
+        "Project focus"
+      ],
+      "advertiser": {
+        "id": "29308145",
+        "description": "Hays Information Technology"
+      },
+      "logo": {
+        "id": "404410",
+        "description": "404410.gif"
+      },
+      "isPremium": false,
+      "isStandOut": true,
+      "location": "Auckland",
+      "area": "Auckland Central",
+      "workType": "Full Time",
+      "classification": {
+        "id": "6281",
+        "description": "Information & Communication Technology"
+      },
+      "subClassification": {
+        "id": "6287",
+        "description": "Developers/Programmers"
+      },
+      "salary": "$80,000 - $90,000",
+      "suburb": "none"
+    },
+    {
+      "id": 28383306,
+      "listingDate": "2015-03-25T20:05:53Z",
+      "title": ".NET Web Developer",
+      "teaser": "Design and develop web/mobile based .NET applications",
+      "bulletPoints": [
+        "100% New Zealand Owned Company",
+        "Work within a Complex Code Base",
+        "Competitive Salary and Health Benefits"
+      ],
+      "advertiser": {
+        "id": "3543024",
+        "description": "Absolute IT- 96% of job seekers we place  would recommend us to others*"
+      },
+      "logo": {
+        "id": "19215",
+        "description": "19215.jpg"
+      },
+      "isPremium": false,
+      "isStandOut": true,
+      "location": "Canterbury",
+      "area": "Christchurch",
+      "workType": "Full Time",
+      "classification": {
+        "id": "6281",
+        "description": "Information & Communication Technology"
+      },
+      "subClassification": {
+        "id": "6287",
+        "description": "Developers/Programmers"
+      },
+      "salary": "Negotiable on Experience",
+      "suburb": "none"
+    },
+    {
+      "id": 28381943,
+      "listingDate": "2015-03-25T06:41:57Z",
+      "title": "Delphi / .NET Developer",
+      "teaser": "- Global company within the Health industry - Auckland Viaduct - Fast growing company - Working in a creative and energetic team",
+      "bulletPoints": [],
+      "advertiser": {
+        "id": "8805090",
+        "description": "Quest Recruitment Ltd"
+      },
+      "logo": {
+        "id": "",
+        "description": null
+      },
+      "isPremium": false,
+      "isStandOut": false,
+      "location": "Auckland",
+      "area": "Auckland Central",
+      "workType": "Full Time",
+      "classification": {
+        "id": "6281",
+        "description": "Information & Communication Technology"
+      },
+      "subClassification": {
+        "id": "6287",
+        "description": "Developers/Programmers"
+      },
+      "salary": "$70-90,000 p/a",
+      "suburb": "Auckland"
+    },
+    {
+      "id": 27991096,
+      "listingDate": "2015-03-25T05:02:00Z",
+      "title": "Senior C++ Developer",
+      "teaser": "Excellent Opportunity for a Senior C++ Developer",
+      "bulletPoints": [
+        "Market Leading Organisation",
+        "Career Development",
+        "Excellent Remuneration"
+      ],
+      "advertiser": {
+        "id": "26853080",
+        "description": "Recruit IT – Your ICT Career and Contract Specialists"
+      },
+      "logo": {
+        "id": "279500",
+        "description": "279500.jpg"
+      },
+      "isPremium": false,
+      "isStandOut": true,
+      "location": "Auckland",
+      "area": "",
+      "workType": "Full Time",
+      "classification": {
+        "id": "6281",
+        "description": "Information & Communication Technology"
+      },
+      "subClassification": {
+        "id": "6287",
+        "description": "Developers/Programmers"
+      },
+      "salary": "",
+      "suburb": "none"
+    },
+    {
+      "id": 28380182,
+      "listingDate": "2015-03-25T04:24:39Z",
+      "title": "Senior UI Web Developer",
+      "teaser": "This large NZ organisation with well known global clients is seeking a creative Frontend developer. They have recently experienced explosive growth...",
+      "bulletPoints": [
+        "Senior UI Web Developer",
+        "Cloud based applications",
+        "CBD Fringe"
+      ],
+      "advertiser": {
+        "id": "29308145",
+        "description": "Hays Information Technology"
+      },
+      "logo": {
+        "id": "404410",
+        "description": "404410.gif"
+      },
+      "isPremium": false,
+      "isStandOut": true,
+      "location": "Auckland",
+      "area": "Auckland Central",
+      "workType": "Full Time",
+      "classification": {
+        "id": "6281",
+        "description": "Information & Communication Technology"
+      },
+      "subClassification": {
+        "id": "6287",
+        "description": "Developers/Programmers"
+      },
+      "salary": "",
+      "suburb": "none"
+    }
+  ]
+}
