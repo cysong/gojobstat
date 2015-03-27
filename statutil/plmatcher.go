@@ -24,7 +24,7 @@ func init() {
 	}
 
 	List_Of_Programming_Languages_C = []string{
-		"c", "c--", "c++ - iso/iec 14882", "c# - iso/iec 23270", "c#",
+		"c", "c--", "c++", "c# - iso/iec 23270",
 		"c/al", "caché objectscript", "c shell", "caml", "candle", "cayenne", "cduce",
 		"cecil", "cel", "cesil", "ceylon", "cfengine", "cfml", "cg", "ch", "chapel", "chain", "charity", "charm",
 		"chef", "chill", "chip-8", "chomski", "chuck", "cics", "cilk", "cl (ibm)", "claire", "clarion", "clean", "clipper",
@@ -32,7 +32,7 @@ func init() {
 		"coffeescript", "cola", "coldc", "coldfusion", "comal", "combined programming language (cpl)", "comit",
 		"common intermediate language (cil)", "common lisp (also known as cl)", "compass", "component pascal", "constraint handling rules (chr)",
 		"converge", "cool", "coq", "coral 66", "corn", "corvision", "cowsel", "cpl", "csh", "csp", "csound",
-		"cuda", "curl", "curry", "cyclone", "cython",
+		"cuda", "curl", "curry", "cyclone", "cython", "c#",
 	}
 	List_Of_Programming_Languages_D = []string{
 		"d", "dasl (datapoint's advanced systems language)", "dasl (distributed application specification language)",
@@ -86,7 +86,7 @@ func init() {
 	}
 
 	List_Of_Programming_Languages_P_Q_R = []string{
-		"p#", "parasail (programming language)", "pari/gp", "pascal - iso 7185", "pawn", "pcastl", "pcf", "pearl", "peoplecode",
+		"p#", "parasail", "pari/gp", "pascal - iso 7185", "pawn", "pcastl", "pcf", "pearl", "peoplecode",
 		"perl", "pdl", "php", "phrogram", "pico", "picolisp", "pict", "pike", "pikt", "pilot", "pipelines", "pizza", "pl-11", "pl/0",
 		"pl/b", "pl/c", "pl/i - iso 6160", "pl/m", "pl/p", "pl/sql", "pl360", "planc", "plankalkül", "planner", "plex", "plexil", "plus",
 		"pop-11", "postscript", "portable", "powerhouse", "powerbuilder - 4gl gui appl. generator from sybase", "powershell", "ppl",
@@ -112,6 +112,10 @@ func init() {
 		"xpl0", "xquery", "xsb", "xslt - see xpath", "xtend", "yorick", "yql", "z notation", "zeno",
 	}
 
+	Spicial_Programming_Languages = []string{
+		".net",
+	}
+
 }
 
 var List_Of_Programming_Languages_A []string
@@ -125,6 +129,7 @@ var List_Of_Programming_Languages_M []string
 var List_Of_Programming_Languages_N_O []string
 var List_Of_Programming_Languages_P_Q_R []string
 var List_Of_Programming_Languages_S_T_U_V_W_X_Y_Z []string
+var Spicial_Programming_Languages []string
 
 func Analyse(str string) (count map[string]int) {
 	count = make(map[string]int)
@@ -172,7 +177,7 @@ func getPLList(w string) []string {
 	case 's', 't', 'u', 'v', 'w', 'x', 'y', 'z':
 		return List_Of_Programming_Languages_S_T_U_V_W_X_Y_Z
 	default:
-		return []string{}
+		return Spicial_Programming_Languages
 	}
 }
 
