@@ -9,7 +9,7 @@ import (
 type Fetcher interface {
 	// Fetch returns the result in json format of URL and
 	// a slice of URLs found on that page.
-	Fetch(url string) (resultJson string, urls []string, err error)
+	Fetch(url string) (resultJson string, err error)
 }
 
 // this is a method to download the target url

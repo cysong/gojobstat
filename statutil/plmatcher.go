@@ -153,6 +153,9 @@ func Analyse(str string) (count map[string]int) {
 
 func getPLList(w string) []string {
 	log.Println("process word: ", w)
+	if len(w) == 0 {
+		return nil
+	}
 	switch w[0] {
 	case 'a':
 		return List_Of_Programming_Languages_A
