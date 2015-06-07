@@ -1,9 +1,9 @@
 package model
 
 type Seek struct {
-	Title      string
-	TotalCount int
-	Data       []SeekJob
+	Title string    `json:"title"`
+	Count int       `json:"totalCount"`
+	Data  []SeekJob `json:"data"`
 }
 
 type SeekJob struct {

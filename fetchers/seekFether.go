@@ -16,7 +16,7 @@ func (s *SeekFether) Fetch(url string) (resultJson string, err error) {
 	if err != nil {
 		log.Println("error: ", err)
 	}
-	log.Printf("%+v", result.Title)
+
 	return statJobs(result), nil
 }
 

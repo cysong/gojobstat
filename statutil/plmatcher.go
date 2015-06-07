@@ -13,7 +13,7 @@ func init() {
 		"algol 68", "algol w", "alice", "alma-0", "ambienttalk", "amiga e", "amos", "ampl",
 		"apl", "app inventor for android's visual block language", "applescript", "arc", "arexx", "argus", "aspectj",
 		"assembly language", "ats", "ateji px", "autohotkey", "autocoder", "autoit", "autolisp / visual lisp", "averest",
-		"awk", "axum",
+		"awk", "axum", "android",
 	}
 
 	List_Of_Programming_Languages_B = []string{
@@ -137,7 +137,7 @@ func Analyse(str string) (count map[string]int) {
 	strs := strings.Split(str, " ")
 	if len(strs) > 0 {
 		for _, word := range strs {
-			arr := getPLList(word)
+			arr := getPLList(strings.ToLower(word))
 			if len(arr) != 0 && match(word, arr) {
 				if count != nil && count[word] != -1 {
 					count[word] = count[word] + 1

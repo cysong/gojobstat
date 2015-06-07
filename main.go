@@ -3,11 +3,12 @@ package main
 import (
 	"encoding/json"
 	"errors"
-	"github.com/gojobstat/fetchers"
 	"log"
 	"os"
 	"strconv"
 	"sync"
+
+	"github.com/gojobstat/fetchers"
 )
 
 var (
@@ -47,9 +48,7 @@ func Crawl(paging int, fetcher fetchers.Fetcher) {
 		return
 	}
 
-	log.Println("============result============")
 	log.Println(body)
-	log.Println("============end result============")
 
 	var tmpResult map[string]int
 	err = json.Unmarshal([]byte(body), &tmpResult)
@@ -83,7 +82,6 @@ func WriteToFile(filename string, content string) {
 
 	defer f.Close()
 	if _, err = f.WriteString(content); err != nil {
-		log.Println("...")
 		panic(err)
 	}
 }
