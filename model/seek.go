@@ -8,7 +8,7 @@ type Seek struct {
 
 type SeekJob struct {
 	Id                int
-	ListDate          string
+	ListingDate       string
 	Title             string
 	Teaser            string
 	BulletPoints      []string
@@ -17,6 +17,7 @@ type SeekJob struct {
 	IsPremium         bool
 	IsStandOut        bool
 	Location          string
+	Area              string
 	Classification    Classiciation
 	SubClassification SubClassiciation
 	Salary            string
