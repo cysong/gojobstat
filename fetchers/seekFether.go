@@ -9,7 +9,7 @@ import (
 
 type SeekFether struct{}
 
-func (s *SeekFether) Fetch(url string) (resultJson string, err error) {
+func (s *SeekFether) Fetch(url string) (resultJson []model.SeekJob, err error) {
 	page := GetByUrl(url) // the raw page of the url
 	var result model.Seek
 	err = json.Unmarshal(page, &result)
@@ -17,7 +17,8 @@ func (s *SeekFether) Fetch(url string) (resultJson string, err error) {
 		log.Println("error: ", err)
 	}
 
-	return statJobs(result), nil
+	//return statJobs(result), nil
+	return result.Data, err
 }
 
 func statJobs(seek model.Seek) (jsStr string) {
