@@ -2,16 +2,17 @@ package mongodb
 
 import (
 	"context"
+	"log"
+
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
-	"log"
 )
 
 type Conn struct {
 }
 
 const (
-	mongoUrl = "mongodb://192.168.1.9:27017"
+	mongoUrl = "mongodb://192.168.188.8:27017"
 	auth     = "admin"
 	username = "admin"
 	password = "admin"
